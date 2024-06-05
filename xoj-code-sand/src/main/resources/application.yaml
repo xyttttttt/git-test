@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: xoj-code-sandbox
+
+server:
+  port: 8122
